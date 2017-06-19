@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_teory"
+            android:icon="@drawable/ic_theory"
+            android:title="Теория" />
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_test"
+            android:title="Тестирование" />
+        <item
+            android:id="@+id/nav_result"
+            android:icon="@drawable/ic_res"
+            android:title="Результаты" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_change_user"
+                android:icon="@drawable/ic_change"
+                android:title="Смена пользователя" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Выход" />
+        </menu>
+    </item>
+
+</menu>

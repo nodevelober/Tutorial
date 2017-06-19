@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0eb95b</color>
+    <color name="colorPrimaryDark">#0eb95b</color>
+    <color name="colorAccent">#05602e</color>
+    <color name="reddivider">#0eb95b</color>
+    <color name="resColor">#000000</color>
+    <color name="theory">#383636</color>
+    <color name="backtheory">#433f3f</color>
+    <item name="blue" type="color">#FF33B5E5</item>
+</resources>
